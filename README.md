@@ -14,7 +14,7 @@ Visual Studio 2010+ with .Net 4.6.1.
 
 To download this via a zip file, just click Clone or Download and select Download as a Zip.  Then unzip that file onto your hard drive and open it with Visual Studio.  It should be ready to go and just bring up a blank page when you run it.
 
-If you want to clone this into your desktop, it is pretty easy.  However, you need knowledge of Git.  Follow these steps:
+If you want to use Git and clone this onto your local system, it is pretty easy.  However, you need knowledge of Git and the GitHub component installed.  Follow these steps:
 
 - Open Visual Studio, but don't open a project or solution
 - Open the Team Explorer window (usually on the right set of tabs)
